@@ -12,7 +12,10 @@ I aim to incorporate its colour transition effects into this project, ensuring s
 ## Part 2: Coding Technique Exploration
 Gradient effects can be achieved through **colour interpolation**. This colour interpolation encoding technique generates smoother, more visually harmonious gradients by calculating intermediate values between selected colours across different colour spaces, enabling natural transitions between hues.
 
-![Effect Example](Example.png)
-[Example Code](https://facelessuser.github.io/coloraide/interpolation/)
+Effect Example:
+![Effect Example](effectExample.png)
+Code Example:
+![Code Example](codeExample.png)
+[Code Example](https://facelessuser.github.io/coloraide/interpolation/)
 
 ---
