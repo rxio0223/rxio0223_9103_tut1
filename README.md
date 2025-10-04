@@ -13,6 +13,6 @@ I aim to incorporate its colour transition effects into this project, ensuring s
 Gradient effects can be achieved through **colour interpolation**. This colour interpolation encoding technique generates smoother, more visually harmonious gradients by calculating intermediate values between selected colours across different colour spaces, enabling natural transitions between hues.
 
 ![Effect Example](Example.png)
-![Example Code](https://facelessuser.github.io/coloraide/interpolation/)
+[Example Code](https://facelessuser.github.io/coloraide/interpolation/)
 
 ---
